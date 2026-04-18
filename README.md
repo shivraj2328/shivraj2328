@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F3460&center=true&vCenter=true&width=600&lines=Turning+ideas+into+elegant+code+%F0%9F%9A%80;Full+Stack+Developer+%7C+Java+%7C+React;Building+solutions+that+make+a+difference;Open+to+opportunities+%26+collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F3460&center=true&vCenter=true&width=600&lines=Turning+ideas+into+elegant+code+%F0%9F%9A%80;Full+Stack+Developer+%7C+Java+%7C+React+%7CDevOps;Building+solutions+that+make+a+difference;Open+to+opportunities+%26+collaborations!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -58,6 +58,10 @@ const shivraj = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://www.google.com/imgres?q=aws%20logo%20to%20use%20it%20on%20github%20profile&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F356979740%2Fb7a6f6f2-5693-4166-8406-94bdd0840ccb&imgrefurl=https%3A%2F%2Fgithub.com%2Fmikeroyal%2FAWS-Guide&docid=SDAHcDUGVK0v6M&tbnid=ZDEZSoY1hXZ_OM&vet=12ahUKEwjon_in2feTAxW-1TQHHY_JNOAQnPAOegQIFhAB..i&w=1350&h=380&hcb=2&ved=2ahUKEwjon_in2feTAxW-1TQHHY_JNOAQnPAOegQIFhAB)
+https://camo.githubusercontent.com/b3249a17208ffaae9225c04310b9c2b97cd823970d61b1ab619a54f57b78ab3c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6177732c6763702c617a7572652c646f636b65722c6b756265726e65746573267468656d653d6461726b
 
 ---
 
